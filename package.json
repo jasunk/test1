@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Serverside of chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "console.log(\"hello\")",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "cool"
+  ],
+  "author": "Jasunk",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ws": "^8.12.0"
+  }
+}
